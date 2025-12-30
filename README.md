@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henok
-- 👀 I’m interested in continuous learning esp in the field of ML, RL and DL. 
-- 🌱 I’m currently learning listwise ranking
+- 👀 I am developing a pyspark MLOps called smallaxe in collaboration with Claude Code
+- 🌱 I’m currently focused on post-training LLMs. 
 - 💞️ I’m looking to collaborate on open-source projects. 
 - 📫 How to reach me ...henokadem1@gmail.com 
 - 🤎 How to check out my work ...https://linktr.ee/henokyemam 
